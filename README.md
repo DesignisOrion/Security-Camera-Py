@@ -1,4 +1,4 @@
-# Security Camera
+# Apartment Security Camera
 
 Created a security camera using openCV to detect moving objects. Once a object is detected, an alarm sounds off. Enjoy.
 
